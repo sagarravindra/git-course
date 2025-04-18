@@ -1,2 +1,3 @@
 add and remove uers
 change the roles
+manage database
