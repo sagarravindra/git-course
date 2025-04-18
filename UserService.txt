@@ -3,4 +3,7 @@ process the data
 
 create an avatar for user
 
-login and logout
+login and logout 
+login and logout second time
+
+change 1
